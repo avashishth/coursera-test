@@ -12,22 +12,7 @@
     border-color: black;
 }
 
-#navbar-collapse-menu ul li {
-    border-top-style: solid;
-    border-top-color: black;
-    border-top-width: 1px;
-    font-weight: 700;
-    font-size: 1.2em;
-    background-color: lightgreen;
-}
 
-#navbar-collapse-menu ul {
-    margin: 0px;
-}
-
-#navbar-collapse-menu {
-    padding: 0px;
-}
 
 #main-container {
     margin: -15px auto 0px auto;
